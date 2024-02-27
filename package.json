@@ -1,0 +1,19 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "an easy tic-tac-toe game!",
+  "main": "main.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anshuu0046/tic-tac-toe.git"
+  },
+  "author": "Anshuman Tripathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anshuu0046/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/Anshuu0046/tic-tac-toe#readme"
+}
